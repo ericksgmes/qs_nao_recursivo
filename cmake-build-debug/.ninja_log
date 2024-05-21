@@ -1,0 +1,17 @@
+# ninja log v5
+1	43	1716307780396510642	CMakeFiles/quickSortIterativo.dir/main.c.o	b8f3735a2214b32e
+3	204	1716307771094384108	CMakeFiles/quickSortIterativo.dir/stack.c.o	affa46fff25abb02
+43	87	1716307780438547491	quickSortIterativo	62c2bb502751fe19
+3	196	1716307949401248960	CMakeFiles/quickSortIterativo.dir/main.c.o	b8f3735a2214b32e
+4	197	1716307949402149275	CMakeFiles/quickSortIterativo.dir/quicksort.c.o	db0ede62e88b706f
+197	328	1716307949532904722	quickSortIterativo	e8d07de958e1dc78
+2	69	1716308433171593783	CMakeFiles/quickSortIterativo.dir/quicksort.c.o	db0ede62e88b706f
+2	203	1716308557703505132	CMakeFiles/quickSortIterativo.dir/main.c.o	b8f3735a2214b32e
+3	204	1716308557703989872	CMakeFiles/quickSortIterativo.dir/stack.c.o	affa46fff25abb02
+2	41	1716308593852481467	CMakeFiles/quickSortIterativo.dir/main.c.o	b8f3735a2214b32e
+2	50	1716308593861291611	CMakeFiles/quickSortIterativo.dir/quicksort.c.o	db0ede62e88b706f
+4	204	1716308726517585772	CMakeFiles/quickSortIterativo.dir/stack.c.o	affa46fff25abb02
+204	333	1716308726645407283	quickSortIterativo	e8d07de958e1dc78
+1	51	1716309218975211923	CMakeFiles/quickSortIterativo.dir/main.c.o	b8f3735a2214b32e
+2	52	1716309218975289671	CMakeFiles/quickSortIterativo.dir/quicksort.c.o	db0ede62e88b706f
+53	94	1716309219016805364	quickSortIterativo	e8d07de958e1dc78
