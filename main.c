@@ -12,11 +12,14 @@ int main() {
     scanf("%d\n", &n);
     char elements[n+1];
     fgets(elements, sizeof(elements), stdin);
-    
+
     int arr[n];
 
     for (int i = 0; i < n; i++) {
-        arr[i] = elements[i] - '0';
+        char aux[2];
+        aux[0] = elements[i];
+        aux[1] = '\0';
+        arr[i] = atoi(aux);
     }
 
     clock_t start = clock();
